@@ -53,4 +53,6 @@ This project is a **practical implementation of SQL for business analytics** in 
 
 ---
 
+Pdf-  SQL project of online book selling By Bodhisatta Banerjee on Postgre SQL.pdf
+
 ✍️ *Project by [Bodhisatta Banerjee](https://github.com/)*  
