@@ -1,0 +1,56 @@
+# 📚 Online Book Selling SQL Project  
+
+This project is a **PostgreSQL-based database system** designed for managing an **online book-selling platform**. It demonstrates the end-to-end process of **database design, data import, and query execution** for extracting useful business insights.  
+
+---
+
+## 🔹 Project Overview  
+The project consists of three main tables:  
+
+- **Books** → Stores book details (title, author, genre, price, stock, etc.)  
+- **Customers** → Stores customer details (name, email, city, country, etc.)  
+- **Orders** → Stores order transactions (customer ID, book ID, order date, quantity, total amount)  
+
+Data is imported via CSV files into PostgreSQL, and multiple SQL queries are executed to answer real-world business questions.  
+
+---
+
+## 🔹 Key SQL Queries Solved  
+✔ Retrieve books by genre or publication year  
+✔ Find customers based on country or purchase history  
+✔ Filter orders by specific date ranges  
+✔ Calculate total stock, revenue, and sales per genre  
+✔ Identify the **most expensive book** and the **most frequently ordered book**  
+✔ List top customers based on number of orders or total spend  
+✔ Track revenue and sales distribution across authors and genres  
+✔ Compute **remaining stock** after fulfilling all orders  
+
+---
+
+## 🔹 Business Insights from Queries  
+- 📖 Identified **best-selling genres and authors**  
+- 💰 Measured **total revenue and customer spending patterns**  
+- 📊 Highlighted **stock management** by tracking remaining inventory  
+- 🌍 Mapped **customer distribution by cities and countries**  
+- 🏆 Determined the **top customers and most popular books**  
+
+---
+
+## 🔹 Why This Project?  
+This project is a **practical implementation of SQL for business analytics** in the e-commerce/book-selling domain. It covers **data modeling, data import, query writing, and generating insights**—all of which are core skills for data analysts and database developers.  
+
+---
+
+## 🔹 Tech Stack  
+- **Database:** PostgreSQL  
+- **Data Format:** CSV files  
+- **Queries:** SQL (DDL, DML, Aggregations, Joins, Grouping)  
+
+---
+
+## 📌 Repository Description   
+**“PostgreSQL project on online book selling — includes database design, data import, and 20+ SQL queries to analyze sales, revenue, customers, and inventory insights.”**  
+
+---
+
+✍️ *Project by [Bodhisatta Banerjee](https://github.com/)*  
